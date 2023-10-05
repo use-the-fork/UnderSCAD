@@ -9,9 +9,9 @@ assert(version_num()>=20190500, "UnderSCAD requires OpenSCAD version 2019.05 or 
 
 __rulerLength = 1500;
 
-//include <debug.scad>;
-//include <colors.scad>;
-//include <ruler.scad>;
-//include <bounding_box.scad>;
+include <debug.scad>;
+include <colors.scad>;
+include <ruler.scad>;
+include <bounding_box.scad>;
 
 
